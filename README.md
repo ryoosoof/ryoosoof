@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ryoosoof
 - 👀 I’m interested in PowerApps
 - 🌱 I’m currently learning PowerApps
-- I have passed PowerApp Fundamentals.
+-    I have passed PowerApp Fundamentals.
 
 <!---
 ryoosoof/ryoosoof is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
